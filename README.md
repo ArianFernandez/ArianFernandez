@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Arian Fernandez's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArianFernandez&show_icons=true&theme=transparent)
 <!--![ArianFernandez's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArianFernandez&show_icons=true&theme=radical)-->
 
 <!--
